@@ -167,7 +167,7 @@ onMounted(() => {
 
         <!-- ABOUT TAB -->
         <div v-if="activeTab === 'about'" class="tab-panel">
-          <h2 class="section-title">Xin chào! Tôi là <span class="highlight">Triệu</span> 👋</h2>
+          <h2 class="section-title">Xin chào! Tôi là <span class="highlight">Trịnh Công Triệu</span> 👋</h2>
           <p class="bio">
             Tôi là một <strong>Senior Frontend Developer</strong> với hơn 5 năm kinh nghiệm xây dựng
             các ứng dụng web hiện đại, tối ưu hiệu suất cao. Đam mê với Vue.js, TypeScript, và thiết
