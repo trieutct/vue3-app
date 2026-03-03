@@ -98,7 +98,7 @@ onMounted(() => {
           <span class="status-badge">🟢 Available</span>
         </div>
 
-        <h1 class="name">Triệu Trần</h1>
+        <h1 class="name">Trịnh Công Triệu</h1>
         <p class="title">Senior Frontend Developer</p>
         <p class="location">📍 Hồ Chí Minh, Việt Nam</p>
 
