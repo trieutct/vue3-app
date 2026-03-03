@@ -2,7 +2,8 @@ version: "3.8"
 
 services:
   vue-app:
-    build: .
+    build: 
+      dockerfile: ./Dockerfile
     container_name: vue3-app
     ports:
       - "8080:80"
